@@ -160,11 +160,13 @@ $query = mysqli_query($koneksi,"SELECT * FROM tb_gambar");
 
         <div class="row">
           <div class="col-sm-4">
+            <p>Nama</p>
             <p>Tempat, Tanggal Lahir </p>
             <p>Alamat </p>
             <p>No. Hp</p>
           </div>
           <div class="col-sm-8">
+            <p> : Jangkung Pangestu Aji
             <p> : Sidoarjo, 21 September 2001</p>
             <p> : Bugel, Panjatan, Kulon Progo</p>
             <p> : 08772689xxxx</p>
